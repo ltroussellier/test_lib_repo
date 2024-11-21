@@ -1,0 +1,3 @@
+[submodule "test_voc_repo"]
+	path = test_voc_repo
+	url = https://github.com/ltroussellier/test_voc_repo.git
